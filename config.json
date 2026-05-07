@@ -1,7 +1,7 @@
 {
-  "env": "development",
+  "env": "production",
   "port": 3000,
-  "proxied": false,
+  "proxied": 1,
   "enabledSites": {
     "genshinImpactFandom": true,
     "game8": true,
