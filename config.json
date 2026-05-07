@@ -1,0 +1,16 @@
+{
+  "env": "development",
+  "port": 3000,
+  "proxied": false,
+  "enabledSites": {
+    "genshinImpactFandom": true,
+    "game8": true,
+    "rockpapershotgun": true,
+    "vg247": true,
+    "pcgamesn": true,
+    "gamerant": true
+  },
+  "schedulers": {
+    "scrapeGenshinCodes": "*/5 * * * *"
+  }
+}

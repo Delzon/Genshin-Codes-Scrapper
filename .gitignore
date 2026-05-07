@@ -130,6 +130,6 @@ dist
 .pnp.*
 
 # project related
-config.json
+#config.json
 src/storages/local/*
 !src/storages/local/init.md
