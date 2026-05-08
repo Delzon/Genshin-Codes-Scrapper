@@ -3,7 +3,7 @@
   "port": 3000,
   "proxied": 1,
   "enabledSites": {
-    "genshinImpactFandom": true,
+    "genshinImpactFandom": false,
     "game8": true,
     "rockpapershotgun": true,
     "vg247": true,
