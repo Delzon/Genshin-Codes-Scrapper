@@ -13,3 +13,9 @@ COPY . .
 
 # Build the project (creates ./dist)
 RUN yarn build
+
+# Expose port
+EXPOSE 3000
+
+# Start the application
+CMD ["yarn", "start"]
